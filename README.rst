@@ -97,11 +97,11 @@ Screenshots
 
 .. External References Below. Nothing Below This Line Should Be Rendered
 
-.. _Latest Package for Python 2.6: https://github.com/jcurry/ZenPacks.common.PredictiveThreshold/blob/master/dist/ZenPacks.common.PredictiveThreshold-2.1-py2.6.egg?raw=true
+.. _Latest Package for Python 2.6: https://github.com/jcurry/ZenPacks.community.PredictiveThreshold/blob/master/dist/ZenPacks.community.PredictiveThreshold-2.1-py2.6.egg?raw=true
 
-.. |PredictiveThreshold| image:: http://github.com/jcurry/ZenPacks.common.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdCreate.jpg
-.. |PredictiveThreshold| image:: http://github.com/jcurry/ZenPacks.common.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdEdit.jpg
-.. |PredictiveThreshold| image:: http://github.com/jcurry/ZenPacks.common.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdShow.jpg
+.. |PredictiveThreshold| image:: http://github.com/jcurry/ZenPacks.community.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdCreate.jpg
+.. |PredictiveThreshold| image:: http://github.com/jcurry/ZenPacks.community.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdEdit.jpg
+.. |PredictiveThreshold| image:: http://github.com/jcurry/ZenPacks.community.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdShow.jpg
 
                                                                         
 
