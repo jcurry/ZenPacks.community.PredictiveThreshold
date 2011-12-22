@@ -99,9 +99,9 @@ Screenshots
 
 .. _Latest Package for Python 2.6: https://github.com/jcurry/ZenPacks.community.PredictiveThreshold/blob/master/dist/ZenPacks.community.PredictiveThreshold-2.1-py2.6.egg?raw=true
 
-.. |PredictiveThreshold| image:: http://github.com/jcurry/ZenPacks.community.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdCreate.jpg
-.. |PredictiveThreshold| image:: http://github.com/jcurry/ZenPacks.community.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdEdit.jpg
-.. |PredictiveThreshold| image:: http://github.com/jcurry/ZenPacks.community.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdShow.jpg
+.. |PredictiveThresholdCreate| image:: http://github.com/jcurry/ZenPacks.community.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdCreate.jpg
+.. |PredictiveThresholdEdit| image:: http://github.com/jcurry/ZenPacks.community.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdEdit.jpg
+.. |PredictiveThresholdShow| image:: http://github.com/jcurry/ZenPacks.community.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdShow.jpg
 
                                                                         
 
