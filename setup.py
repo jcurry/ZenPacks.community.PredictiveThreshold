@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.PredictiveThreshold"
 VERSION = "2.1"
 AUTHOR = "Eric Edgar / Jane Curry"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.PredictiveThreshold']
 INSTALL_REQUIRES = []
