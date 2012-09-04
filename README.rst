@@ -28,7 +28,7 @@ Holt Winters Parameters
 Requirements & Dependencies
 ===========================
 
-    * Zenoss Versions Supported: 3.0
+    * Zenoss Versions Supported: 3.x and 4.x
     * External Dependencies: 
     * ZenPack Dependencies:
     * Installation Notes: zenhub and zopectl restart after installing this ZenPack.
@@ -52,6 +52,7 @@ Download the appropriate package for your Zenoss version from the list
 below.
 
 * Zenoss 3.0+ `Latest Package for Python 2.6`_
+* Zenoss 4.0+ `Latest Package for Python 2.7`_
 
 Installation
 ============
@@ -87,6 +88,8 @@ Change History
    * Changed by Jane Curry to support Zenoss 3.x
 * 2.1
    * Transferred to new github methods
+* 3.0
+   * Changed by Jane Curry to support Zenoss 4.x
 
 Screenshots
 ===========
@@ -97,7 +100,8 @@ Screenshots
 
 .. External References Below. Nothing Below This Line Should Be Rendered
 
-.. _Latest Package for Python 2.6: https://github.com/jcurry/ZenPacks.community.PredictiveThreshold/blob/master/dist/ZenPacks.community.PredictiveThreshold-2.1-py2.6.egg?raw=true
+.. _Latest Package for Python 2.6:  https://github.com/downloads/jcurry/ZenPacks.community.PredictiveThresold/ZenPacks.community.PredictiveThreshold-2.1-py2.6.egg
+.. _Latest Package for Python 2.7:  https://github.com/downloads/jcurry/ZenPacks.community.PredictiveThresold/ZenPacks.community.PredictiveThreshold-3.0-py2.7.egg
 
 .. |PredictiveThresholdCreate| image:: http://github.com/jcurry/ZenPacks.community.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdCreate.jpg
 .. |PredictiveThresholdEdit| image:: http://github.com/jcurry/ZenPacks.community.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdEdit.jpg
