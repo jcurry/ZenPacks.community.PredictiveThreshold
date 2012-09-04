@@ -100,8 +100,8 @@ Screenshots
 
 .. External References Below. Nothing Below This Line Should Be Rendered
 
-.. _Latest Package for Python 2.6:  https://github.com/downloads/jcurry/ZenPacks.community.PredictiveThresold/ZenPacks.community.PredictiveThreshold-2.1-py2.6.egg
-.. _Latest Package for Python 2.7:  https://github.com/downloads/jcurry/ZenPacks.community.PredictiveThresold/ZenPacks.community.PredictiveThreshold-3.0-py2.7.egg
+.. _Latest Package for Python 2.6:  https://github.com/downloads/jcurry/ZenPacks.community.PredictiveThreshold/ZenPacks.community.PredictiveThreshold-2.1-py2.6.egg
+.. _Latest Package for Python 2.7:  https://github.com/downloads/jcurry/ZenPacks.community.PredictiveThreshold/ZenPacks.community.PredictiveThreshold-3.0-py2.7.egg
 
 .. |PredictiveThresholdCreate| image:: http://github.com/jcurry/ZenPacks.community.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdCreate.jpg
 .. |PredictiveThresholdEdit| image:: http://github.com/jcurry/ZenPacks.community.PredictiveThreshold/raw/master/screenshots/PredictiveThresholdEdit.jpg
